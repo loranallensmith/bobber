@@ -1,0 +1,2 @@
+module NibblesHelper
+end
